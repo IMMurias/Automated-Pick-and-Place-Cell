@@ -288,22 +288,29 @@ Future development could include:
 ---
 
 ## Repository Structure
-Automated-Pick-and-Place-Cell/ 
-│ 
-├── README.md  
-├── Documentation/ 
-│   ├── Technical_Report.pdf 
-│   ├── PLC_Documentation.pdf 
-│   ├── HMI_Documentation.pdf 
-│   └── RAPID_Code_Explanation.txt 
-├── RobotStudio/ 
-│   └── Project_Pack_and_Go.rspag 
-├── TIA_Portal/ 
-│   └── Automated_Pick_and_Place_Cell.zap20 
-├── CAD/ 
-│   └── *.step 
-└── Video/ 
+```text
+Automated-Pick-and-Place-Cell/
+│
+├── README.md
+│
+├── Documentation/
+│   ├── Technical_Report.pdf
+│   ├── PLC_Documentation.pdf
+│   ├── HMI_Documentation.pdf
+│   └── RAPID_Code_Explanation.txt
+│
+├── RobotStudio/
+│   └── Project_Pack_and_Go.rspag
+│
+├── TIA_Portal/
+│   └── Automated_Pick_and_Place_Cell.zap20
+│
+├── CAD/
+│   └── *.step
+│
+└── Video/
     └── Executive_Video.mp4
+```
 ---
 ## Author
 
