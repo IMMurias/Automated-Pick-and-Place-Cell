@@ -284,4 +284,31 @@ Future development could include:
 * Industrial safety implementation
 * Manufacturing-ready mechanical design
 * Production data collection and performance analysis
-* Integration wit
+* Integration with a wider Industry 4.0 manufacturing environment
+---
+
+## Repository Structure
+Automated-Pick-and-Place-Cell/ 
+│ 
+├── README.md  
+├── Documentation/ 
+│   ├── Technical_Report.pdf 
+│   ├── PLC_Documentation.pdf 
+│   ├── HMI_Documentation.pdf 
+│   └── RAPID_Code_Explanation.txt 
+├── RobotStudio/ 
+│   └── Project_Pack_and_Go.rspag 
+├── TIA_Portal/ 
+│   └── Automated_Pick_and_Place_Cell.zap20 
+├── CAD/ 
+│   └── *.step 
+└── Video/ 
+    └── Executive_Video.mp4
+---
+## Author
+
+### Iñigo Mamolar Murias
+
+Automotive Engineer | MSc Industry 4.0
+
+Engineering Personal Project
