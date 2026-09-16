@@ -317,6 +317,7 @@ Automated-Pick-and-Place-Cell/
     ├── OK_Tray.stp
     ├── Piece_Conveyor.stp
     ├── Workpiece.stp
+    ├── Workpiece_Drawing.jpeg
     ├── Scanner.stp
     ├── Tray_Lconveyor.stp
     └── Scanner_Table.stp
