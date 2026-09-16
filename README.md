@@ -258,7 +258,7 @@ Line-by-line explanation of the RAPID program used for the robotic sequence.
 
 ### RobotStudio
 
-The `RobotStudio` folder contains the RobotStudio station compressed project (`.zip`) , since Pack & Go functionality was not possible, Module 1 (`.mod`), CalibData (`.mod`) and EIO (`.cfg`)  compressed files
+The `RobotStudio` folder contains the RobotStudio station compressed project (`.zip`) , since Pack & Go functionality was not possible, Module 1 (`.mod`), CalibData (`.mod`) and EIO (`.cfg`)  compressed files.
 
 ### TIA PORTAL
 
