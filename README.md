@@ -10,7 +10,7 @@ The project combines **Siemens TIA Portal**, **ABB RobotStudio**, **NX CAD**, **
 
 ## Executive Video
 
-[![Watch the Executive Video](https://img.youtube.com/vi/oFUgIBDjzms/maxresdefault.jpg)](https://youtu.be/oFUgIBDjzms)
+[![Watch the Executive Video](https://img.youtube.com/vi/zSB9cB7Jzok/maxresdefault.jpg)](https://youtu.be/zSB9cB7Jzok)
 
 ---
 
