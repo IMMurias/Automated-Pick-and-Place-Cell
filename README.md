@@ -57,8 +57,8 @@ The project was implemented using two simulation environments connected through 
 │                                      │
 │ RobotStudio 2026.2                   │
 │ ABB IRB 1200                         │
-│ RobotWare 6.07.01                   │
-│ RAPID                               │
+│ RobotWare 6.07.01                    │
+│ RAPID                                │
 │                                      │
 │        OPC UA Client                 │
 └──────────────────────────────────────┘
@@ -240,15 +240,15 @@ Detailed documentation is available in the `Documentation` folder.
 
 Complete technical report describing the system architecture, mechanical design, PLC and HMI development, RobotStudio programming, process sequence, engineering challenges, testing, limitations and future development.
 
-### PLC Documentation
+### PLC_Documentation
 
 Exported Siemens TIA Portal documentation containing the PLC program and associated data.
 
-### HMI Documentation
+### HMI_Documentation
 
 Exported documentation of the WinCC HMI configuration.
 
-### RAPID Code
+### RAPID_Code_Explained
 
 Line-by-line explanation of the RAPID program used for the robotic sequence.
 
@@ -258,11 +258,11 @@ Line-by-line explanation of the RAPID program used for the robotic sequence.
 
 ### RobotStudio
 
-The `RobotStudio` folder contains the Pack & Go project with the complete simulated robotic cell, including the Smart Components and robot programming.
+The `RobotStudio` folder contains the RobotStudio station compressed project (`.zip`) , since Pack & Go functionality was not possible, Module 1 (`.mod`), CalibData (`.mod`) and EIO (`.cfg`)  compressed files
 
-### TIA Portal
+### TIA PORTAL
 
-The `TIA_Portal` folder contains the Siemens TIA Portal V20 compressed project (`.zap20`) including the simulated PLC and HMI.
+The `TIA Portal` folder contains the Siemens TIA Portal V20 compressed project (`.zap20`) including the simulated PLC and HMI.
 
 ### CAD
 
@@ -306,22 +306,21 @@ Automated-Pick-and-Place-Cell/
 |   └── EIO.cfg
 |
 │
-├── TIA_Portal/
+├── TIA PORTAL/
 │   └── Automated Pick&Place Cell.zap20
 │
-├── CAD/
-│   ├── Gripper.stp
-|   ├── Light_Bulb.stp
-|   ├── NOK_Container.stp
-|   ├── NOK_Platform.stp
-|   ├── OK_Tray.stp
-|   ├── Piece_Conveyor.stp
-|   ├── Workpiece.stp
-|   ├── Scanner.stp
-|   └── Scanner_Table.stp
-│
-└── Executive Video/
-    └── https://youtu.be/oFUgIBDjzms
+└── CAD/
+    ├── Gripper.stp
+    ├── Light_Bulb.stp
+    ├── NOK_Container.stp
+    ├── NOK_Platform.stp
+    ├── OK_Tray.stp
+    ├── Piece_Conveyor.stp
+    ├── Workpiece.stp
+    ├── Scanner.stp
+    ├── Tray_Lconveyor.stp
+    └── Scanner_Table.stp
+
 ```
 ---
 ## Author
