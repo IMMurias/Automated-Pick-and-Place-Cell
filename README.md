@@ -297,19 +297,31 @@ Automated-Pick-and-Place-Cell/
 │   ├── Technical_Report.pdf
 │   ├── PLC_Documentation.pdf
 │   ├── HMI_Documentation.pdf
-│   └── RAPID_Code_Explanation.txt
+│   └── RAPID_Code_Explained.txt
 │
 ├── RobotStudio/
-│   └── Project_Pack_and_Go.rspag
+│   ├── RobotStudio_Project.zip
+|   ├── Module 1.mod
+|   ├── CalibData.mod
+|   └── EIO.cfg
+|
 │
 ├── TIA_Portal/
-│   └── Automated_Pick_and_Place_Cell.zap20
+│   └── Automated Pick&Place Cell.zap20
 │
 ├── CAD/
-│   └── *.step
+│   ├── Gripper.stp
+|   ├── Light_Bulb.stp
+|   ├── NOK_Container.stp
+|   ├── NOK_Platform.stp
+|   ├── OK_Tray.stp
+|   ├── Piece_Conveyor.stp
+|   ├── Workpiece.stp
+|   ├── Scanner.stp
+|   └── Scanner_Table.stp
 │
-└── Video/
-    └── Executive_Video.mp4
+└── Executive Video/
+    └── https://youtu.be/oFUgIBDjzms
 ```
 ---
 ## Author
